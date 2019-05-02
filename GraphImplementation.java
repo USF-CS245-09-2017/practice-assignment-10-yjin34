@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// the 
+// the graph Implmentation class
 public class GraphImplementation implements Graph
 {
 	int[][] graph;
